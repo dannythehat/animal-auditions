@@ -1,0 +1,14 @@
+{
+  "name": "HoneyRocker",
+  "species": "Honey Badger",
+  "description": "Fearless heavy metal-loving honey badger with a creamy yellow mohawk and leather jacket. Aggressive yet hilarious.",
+  "vocalStyle": "Rough, gravelly",
+  "personalityTraits": ["Aggressive", "No-nonsense", "Passionate performer"],
+  "imagePaths": {
+    "front": "../../assets/characters/honeyrocker/front_view.png",
+    "side": "../../assets/characters/honeyrocker/side_view.png",
+    "back": "../../assets/characters/honeyrocker/back_view.png"
+  },
+  "songs": ["Run for the Hills", "Breaking the Chains", "Wild Mosh Pit"]
+}
+
